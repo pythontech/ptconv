@@ -1,0 +1,8 @@
+1.4
+	- add uqs, uqf; update chars for uq
+1.3
+	- add uqp
+1.2
+	- do not quote "mark" characters according to URI spec
+1.1
+	- add xml_[un]escape
